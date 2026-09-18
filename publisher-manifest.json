@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "56d8f3eee56c921c08673a3f",
+  "owner": "xkrdrqttsd",
+  "repo": "xkrdrqttsd.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "7c1e5aa9893753e22b9f009b",
+      "a": "STC",
+      "b": "首页",
+      "entity": "STC",
+      "brand": "首页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "12b6e0495986c5c75f446912aa5bc6eef104b62799fc063aaf4446d8a965e649",
+      "content": {
+        "primary_entity": "STC",
+        "keyword1": "STC",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows、macOS、iOS、Android 与路由器均有对应订阅配置方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好设备与套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 STC",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，基础版、旗舰版与团队版分别对应 3 台、5 台与 20 台设备同时在线，月付 15 元起，年付方案更划算。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度梳理套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台设备以内，每月 100GB 流量，年付 150 元。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备与 300GB 月流量，含 IPLC 专线游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版覆盖 20 台设备与 1000GB 月流量，适合小型团队使用。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量额度",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确认设备数量与所在网络环境，再选择套餐并配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "STC 提供按设备数量与流量划分的订阅套餐，覆盖基础浏览、流媒体解锁与专线加速等场景，可依据设备类型与使用周期灵活选择。",
+          "AI_HERO_SUBTITLE": "按设备与流量灵活选套餐",
+          "AI_HIGHLIGHT_1": "月付 15 元起，年付更划算",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "流媒体与专线节点可选",
+          "AI_PLANS_INTRO": "基础版 3 台设备与 100GB 月流量，旗舰版 5 台与 300GB，团队版 20 台与 1000GB，可按年付节省费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "核对设备操作系统与路由器型号，确认客户端支持情况。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅，完成设备连接配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "STC 订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与线路差异。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的线路有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版使用普通线路节点池，适合网页浏览与常规访问；旗舰版提供全节点原生流媒体解锁，并加入 IPLC 专线优化游戏延迟。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出并发数量时新设备可能无法连接，可升级套餐解决。",
+          "AI_FAQ_QUESTION_3": "年付比月付节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于按十个月计价。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量、20 台设备并发，配有 VIP 专属高带宽节点、企业定制路由与专属客户经理，适合小组或工作室集中使用。",
+          "AI_FAQ_QUESTION_5": "套餐按月付费和按年付费怎么选？",
+          "AI_FAQ_ANSWER_5": "短期或不确定使用时长时可选月付，随时调整档位；长期稳定使用可选年付，基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相当于十个月价格覆盖全年。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3ca03a770a01e6b606c572aa75c0cb16353282726cc1a2eb045cd2c78823c31e",
+    "sitemap.xml": "e251864b0e710e57ca4832207527f06df385aefff21caae3558278010916e037",
+    "robots.txt": "f67673f439f29b1501940e978ae179188be879e512f1ec982ba5aff68deaf2b1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9f1c5ca88fab00e0e7c260e2b8d65a163888957a29b80c5c0abccc80e3547ead"
+}
